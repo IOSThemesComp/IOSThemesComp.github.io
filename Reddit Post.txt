@@ -1,0 +1,49 @@
+[Meta] [Discussion] I have created a website for setup battles and I would love to hear what you guys think! (Please read comments for more info.)
+
+https://iosthemescomp.github.io
+
+You have most likely checked out the website if your reading this however if you haven't go check it out now before continuing so that you have some context for what I'm saying.
+
+Recently as many of you will know IOSThemes has started setup battles and in these battles I have seen some of the best setups this community has ever created submitted so I thought that they needed a place to shine!
+
+The main purpose of this website is to display the top setups for each setup battle as voted by the community.
+
+The website currently has the top submissions (1st, 2nd and 3rd place) for battle 1 and battle 2.
+
+Each submission has a thumbnail which contains: 
+
+-A picture of the main homescreen of the setup in an Iphone render
+
+-The title of the setup and name of the creator
+
+-A medal image that shows the place of the setup in the battle (gold = 1st, silver = 2nd and bronze = 3rd)
+
+Each submission has more info availbile if the thumbnail is clicked, this info contains:
+
+-The title of the setup and name of the creator
+
+-A link to the imgur and reddit post (if availible)
+
+-A tweak list formatted in the best way I have seen fit for the level of detail the creator submitted (If tweak list was availible)
+
+-A link to the battle it was part of, the subreddit it came from (only IOSThemes for now), A link to the creators reddit profile
+
+Now I also need your guys help to improve this website!
+
+Ways you can help:
+
+Suggest improvements for the website, Report bugs / spelling or grammar errors, suggesting a new colour scheme for the website.
+
+I also need a new logo for the website which is currently just an outline of snoo (seen at the top of the page)
+
+So if any of you are willing to make a logo for the website it has to be a 256x256 png image
+
+I was also wondering if the mods such as /u/hizinfiz who seems to be running these battles could somehow find a way to integrate this website into the official battle process.
+
+I would also like to check with the creators of these amazing setups are ok with me using these setups on the website and/or if they have any other social media they want me to link on the website:
+
+/u/xfn9, /u/Ashiknaruto, /u/SPQRGuyMontag, /u/cgh0st, /u/creardon19, and /u/evandroberto (battle 2)
+
+/u/25element, /u/bcgroom, /u/ThePieAlien, and /u/ajkeene99 (battle 1) 
+
+Thank you for reading and hopefully we can make this website an amazing thing that this community can be proud of!
